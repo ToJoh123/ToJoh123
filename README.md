@@ -5,7 +5,6 @@
 I'm currently studying fullstack development at Nackademin, Stockholm, Sweden. 
 It is a 2 year program where we will use JavaScript, NodeJS and related frameworks to create open-source solutions in agile projects from start to finnish. 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my project portfolio website
 
 🧠 I'm currently learning documenting, sharing projects and knowledge in group projects
