@@ -8,13 +8,13 @@ It is a 2 year program where we will use JavaScript, NodeJS and related framewor
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on my project portfolio website
 
-🧠 I'm currently learning documenting, sharing projects and knowledge 
+🧠 I'm currently learning documenting, sharing projects and knowledge in group projects
 
-👯‍♀️ I'm looking to collaborate on anything currently
+👯‍♀️ I'm looking to collaborate on anything currently, but if you are working on a LoRa project i would be especially interested. 
 
-🤔 I'm looking for help with finding 
+🤔 I'm looking for help with finding companies and groups that are building web based HMI/SCADA systems 
 
-📫 feel free to reach out on my email to the left or [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-johansson-021604198/)
+📫 feel free to reach out on my email to the left or linkedin
 
 😄 Pronouns He / him / his
 
@@ -22,7 +22,7 @@ It is a 2 year program where we will use JavaScript, NodeJS and related framewor
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Javascript, HTML, CSS, Java,PHP, Jquery
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-johansson-021604198/)
