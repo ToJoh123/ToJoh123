@@ -32,9 +32,9 @@ Javascript, HTML, CSS, Java,PHP, Jquery
 
 ## 📈 Github Stats
 
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Johansson&show_icons=true&theme=radical)
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomjoh123&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Johansson&layout=compact)](
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomkjoh123&layout=compact)](
 
 
 
