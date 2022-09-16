@@ -5,6 +5,9 @@
 I'm currently studying fullstack development at Nackademin, Stockholm, Sweden. 
 It is a 2 year program where we will use JavaScript, NodeJS and related frameworks to create open-source solutions in agile projects from start to finnish. 
 
+
+___
+
 👩‍💻 I'm currently working on my project portfolio website
 
 🧠 I'm currently learning documenting, sharing projects and knowledge in group projects
@@ -17,7 +20,7 @@ It is a 2 year program where we will use JavaScript, NodeJS and related framewor
 
 😄 Pronouns He / him / his
 
-⚡️ Fun fact...
+
 
 
 ## 🛠 Skills
@@ -27,7 +30,11 @@ Javascript, HTML, CSS, Java,PHP, Jquery
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-johansson-021604198/)
 
 
+## 📈 Github Stats
 
+![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Johansson&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Johansson&layout=compact)](
 
 
 
