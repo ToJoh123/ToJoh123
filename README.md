@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 I'm currently studying fullstack development at Nackademin, Stockholm, Sweden. 
-It is a 2 year program where we will use JavaScript, NodeJS and related frameworks to create open-source solutions in agile projects from start to finnish. 
+It is a 2 year program where we will use JavaScript, NodeJS and related frameworks to create open-source solutions in agile projects from start to end. 
 
 
 ___
