@@ -12,9 +12,9 @@ ___
 
 🧠 I'm currently learning documenting, sharing projects and knowledge in group projects
 
-👯‍♀️ I'm looking to collaborate on anything currently, but if you are working on a LoRa project i would be especially interested. 
+👯‍♀️ I'm looking to collaborate on anything currently
 
-🤔 I'm looking for help with finding companies and groups that are building web based HMI/SCADA systems 
+🤔 I'm looking for help with finding companies that are offering internships. I am avaible from 2023 oktober to 2024 may. 
 
 📫 feel free to reach out on my email to the left or linkedin
 
