@@ -24,7 +24,7 @@ ___
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Java,PHP, Jquery
+Javascript, HTML, CSS, Java,PHP, Node, Express, Mysql, MongoDb, Jest, Mocha, Docker, CI/CD,React
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tom-johansson-021604198/)
