@@ -8,7 +8,7 @@ It is a 2 year program where we will use JavaScript, NodeJS and related framewor
 
 ___
 
-👩‍💻 I'm currently working on my project portfolio website
+👩‍💻 I'm currently working on a login system
 
 🧠 I'm currently learning documenting, sharing projects and knowledge in group projects
 
